@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Consistency is what transforms avarege into excellence
 Use the left arrow to go back!
